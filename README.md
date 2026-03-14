@@ -14,6 +14,21 @@
 
 ###
 
+<h2 align="left">Certifications</h2>
+<p align="left">
+<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/a7ce7842b4474c0ebd096ee2a9245626">AWS Certified Developer - Associate</a>
+GCP Associate Cloud Engineer
+Microsoft Certified:Azure Data Scientist Associate
+Microsoft Certified:Azure AI Fundamentals
+Microsoft Certified:Azure Data Engineer
+Associate Python – HackerRank
+SQL – HackerRank
+  
+  
+  </p>
+
+###
+
 <h2 align="left">LANGUAGES AND TOOLS</h2>
 
 ###
