@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working as Senior Software Engineer at <b>HSBC Software Development(India) Pvt. Ltd.</b><br>🌱 I’m currently working on Machine Learnring, NLP, Tensorflow, Data Analytics<br>💻 Check my Projects and other Repos <a href="https://github.com/DeAdak">HERE</a>.<br>👨‍💻 Completed Azure Data Scientist Associate and Azure AI Fundamentals certificates.</p>
+<p align="left">🔭 I’m currently working as Senior Software Engineer at <b>HSBC Software Development(India) Pvt. Ltd.</b><br>🌱 I’m currently working as a DevOps and Development Engineer with tools like Ansible, Git, learn, PuTTY, WinSCP, Postman.<br>💻 Check my Projects and other Repos <a href="https://github.com/DeAdak">HERE</a></p>
 
 ###
 
