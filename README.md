@@ -18,8 +18,7 @@
 
 ###
 
-<p align="left">
-<br><a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/a7ce7842b4474c0ebd096ee2a9245626">AWS Certified Developer - Associate</a>
+<p align="left"><a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/a7ce7842b4474c0ebd096ee2a9245626">AWS Certified Developer - Associate</a>
 <br><a href="https://www.credly.com/badges/1dc4ea31-05ed-429b-9668-68f5c37d1b2c/public_url">GCP Associate Cloud Engineer</a>
 <br><a href="https://learn.microsoft.com/en-us/users/debabrataadak-5402/credentials/d9299d5172cc2cdf?ref=https%3A%2F%2Fwww.linkedin.com%2F">Microsoft Certified:Azure Data Scientist Associate</a>
 <br><a href="https://learn.microsoft.com/en-us/users/debabrataadak-5402/credentials/45f542e44f8df829?ref=https%3A%2F%2Fwww.linkedin.com%2F">Microsoft Certified:Azure AI Fundamentals</a>
