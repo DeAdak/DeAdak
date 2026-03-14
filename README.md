@@ -15,6 +15,9 @@
 ###
 
 <h2 align="left">Certifications</h2>
+
+###
+
 <p align="left">
 <br><a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/a7ce7842b4474c0ebd096ee2a9245626">AWS Certified Developer - Associate</a>
 <br><a href="https://www.credly.com/badges/1dc4ea31-05ed-429b-9668-68f5c37d1b2c/public_url">GCP Associate Cloud Engineer</a>
@@ -22,10 +25,7 @@
 <br><a href="https://learn.microsoft.com/en-us/users/debabrataadak-5402/credentials/45f542e44f8df829?ref=https%3A%2F%2Fwww.linkedin.com%2F">Microsoft Certified:Azure AI Fundamentals</a>
 <br><a href="https://learn.microsoft.com/en-us/users/debabrataadak-5402/credentials/28c80a279bc78393?ref=https%3A%2F%2Fwww.linkedin.com%2F">Microsoft Certified:Azure Data Engineer</a>
 <br><a href="https://www.hackerrank.com/certificates/32f0fb744161">Associate Python – HackerRank</a>
-<br><a href="https://www.hackerrank.com/certificates/d7ae6dfcea0a">SQL – HackerRank</a>
-  
-  
-  </p>
+<br><a href="https://www.hackerrank.com/certificates/d7ae6dfcea0a">SQL – HackerRank</a></p>
 
 ###
 
